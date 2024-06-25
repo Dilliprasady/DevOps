@@ -1,12 +1,4 @@
 Hi 
-Hello
-<<<<<<< HEAD
-This is Dilli Prasad
-Reddy
-
-
-
-=======
-I am going to Move somewhere else
-welcome to bangalore
->>>>>>> refs/remotes/origin/main
+i am from Chittor
+I am working as Linux Administartor
+In Vodafone idea
